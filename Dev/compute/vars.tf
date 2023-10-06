@@ -29,6 +29,6 @@ variable "vm" {
   type = map(any)
 }
 
-variable "rgname" {
-  type = string
-}
+# variable "rgname" {
+#  type = string
+#}
