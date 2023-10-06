@@ -15,7 +15,3 @@ variable "key_vault" {
 variable "bastion" {
   type = map(any)
 }
-
-variable "rgname" {
-  type = string
-}
