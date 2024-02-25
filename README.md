@@ -1,3 +1,3 @@
 # terraform_envs
 
-Created two enviroments- PROD and Dev for working on Terraform
+Created two enviroments- Prod and Dev for working on Terraform using Terraform Modules
